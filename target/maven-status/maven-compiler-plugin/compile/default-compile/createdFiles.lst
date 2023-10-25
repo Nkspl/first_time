@@ -1,0 +1,6 @@
+Models\Cliente.class
+Gui\Home_form.class
+com\mycompany\foto_app\Foto_app.class
+Models\Camara.class
+Models\Modelo.class
+Models\vendedor.class
